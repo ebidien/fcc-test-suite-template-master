@@ -3,7 +3,9 @@
       background-color: lightgreen;
       
     }
-    #navbar{
+    #leftsidebar {width: 200px; float: left;}
+      #main {margin-left: 216px;}
+      
 
-    }
+    
   }
